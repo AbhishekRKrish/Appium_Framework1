@@ -1,4 +1,3 @@
 # AutomationFramework
-Simple Selenium Based Automation Framework using TestNG
+Simple Espresso Based Automation Framework 
 
-Exceute Tests from TestNG XML
